@@ -1,2 +1,2 @@
-# squid-MBTI-game
-MBTI for kids
+# free-MBTI-test
+MBTI for G.Z teachers
